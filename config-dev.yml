@@ -25,4 +25,4 @@ eureka:
       register-with-eureka: true
       fetch-registry: true
       defaultZone: http://eureka1:9004/eureka
-configVersion: 1
+config-ersion: 1
